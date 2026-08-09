@@ -87,3 +87,4 @@ La inteligencia artificial se ha transformado en un asistente interactivo ("copi
 
 ## En resumen. 
 La **IA** (Inteligencia Artificial) es una herramienta que crea sistemas y maquinas capaces de imitar la inteligencia humada, podemos usarla en nuestro dia a dia para preguntarle una infinidad de temas que siempre buscara la manera de ayudarnos.
+.
